@@ -1,3 +1,6 @@
 [submodule "project1-aquick-cu"]
 	path = project1-aquick-cu
 	url = git@github.com:cu-cs3220-spr25/project1-aquick-cu.git
+[submodule "project2-fantasia-gateway"]
+	path = project2-fantasia-gateway
+	url = git@github.com:cu-cs3220-spr25/project2-fantasia-gateway.git
