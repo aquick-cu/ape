@@ -4,3 +4,6 @@
 [submodule "project2-fantasia-gateway"]
 	path = project2-fantasia-gateway
 	url = git@github.com:cu-cs3220-spr25/project2-fantasia-gateway.git
+[submodule "project3-fantasia-gateway"]
+	path = project3-fantasia-gateway
+	url = git@github.com:cu-cs3220-spr25/project3-fantasia-gateway.git
